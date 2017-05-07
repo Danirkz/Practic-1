@@ -1,0 +1,151 @@
+#Encabezado 
+{
+	width:100%;
+	height:12%;
+	background-image:url(Images/metal.png);
+	background-size: cover;
+	box-shadow:inset 0 0 0 5px white;
+	float: left;
+}
+#Foto 
+{
+	width:30%;
+	height:60%;
+	background-image:url(Images/fond1.png);
+	background-size:cover;
+	float:left;
+}
+#Info 
+{
+	width:45%;
+	height:60%;
+	background-image:url(Images/ciudad.png);
+	background-size:cover;
+	box-shadow:inset 0 0 0 5px white;
+	float:right;
+}
+#Calif
+{
+	text-align:center;
+	width: 35%;
+	height:40%;
+	background-image:url(Images/calif.png);
+	background-size: cover;
+	box-shadow:inset 0 0 0 5px white;
+	float: right;
+}
+#Musc
+{
+	width:17%;
+	height:10%;
+	background-color:red;
+	box-shadow:inset 0 0 0 5px white;
+	float:right;"
+}
+#Lib
+{
+	width:16%;
+	height:10%;
+	background-color:yellow;
+	box-shadow:inset 0 0 0 5px white;
+	float:right;"
+}
+#Gustos3
+{
+	width:16%;
+	height:10%;
+	background-color:green;
+	box-shadow:inset 0 0 0 5px white;
+	float:right;
+}
+#Gustos4
+{
+	width:16%;
+	height:10%;
+	background-color:blue;
+	box-shadow:inset 0 0 0 5px white;
+	float:right;}
+#Imgus1
+{
+	width:17%;
+	height:30%;
+	background-image:url(Images/mus.png);
+	background-size:cover;
+	box-shadow:inset 0 0 0 5px white;
+	float:right;
+}
+#Imgus2
+{
+	width:16%;
+	height:30%;
+	background-image:url(Images/lib.png);
+	background-size:cover;
+	box-shadow:inset 0 0 0 5px white;
+	float:right;
+}
+#Imgus3
+{
+	width:16%;
+	height:30%;
+	background-image:url(Images/pel.png);
+	background-size:cover;
+	box-shadow:inset 0 0 0 5px white;
+	float:right;
+}
+#Imgus4
+{
+	width:16%;
+	height:30%;
+	background-image:url(Images/dep.png);
+	background-size:cover;
+	box-shadow:inset 0 0 0 5px white;
+	float:right;
+}
+#Pie
+{
+	width:100%;
+	height:25%;
+	background-image:url(Images/contac.png);
+	box-shadow:inset 0 0 0 5px white;
+	float:left;
+}
+#ftf1
+{
+	width:20%;
+	height:30%;
+	background-color:blue;
+	box-shadow:inset 0 0 0 5px white;
+	float:left;
+}
+#ftf2
+{
+	width:20%;
+	height:30%;
+	background-color:blue;
+	box-shadow:inset 0 0 0 5px white;
+	float:left;
+}
+#ftf3
+{
+	width:20%;
+	height:30%;
+	background-color:blue;
+	box-shadow:inset 0 0 0 5px white;
+	float:left;
+}
+#ftf4
+{
+	width:20%;
+	height:30%;
+	background-color:blue;
+	box-shadow:inset 0 0 0 5px white;
+	float:left;
+}
+#ftf5
+{
+	width:20%;
+	height:30%;
+	background-color:blue;
+	box-shadow:inset 0 0 0 5px white;
+	float:left;
+}
