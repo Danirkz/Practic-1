@@ -1,13 +1,39 @@
-#Encabezado 
+.Encabezado 
 {
 	width:100%;
 	height:12%;
 	background-image:url(Images/metal.png);
 	background-size: cover;
-	box-shadow:inset 0 0 0 5px white;
 	float: left;
 }
-#Foto 
+
+.Circulo
+{
+width: 100%; border-radius: 50%;
+}
+.Marco
+{
+box-shadow:inset 0 0 0 5px white;
+}
+.Max
+{
+width:100%;
+height:100%;
+}
+.Centro
+{
+text-align: center;
+}
+.Izq
+{
+text-align: left;
+}
+.CentWh
+{
+text-align: center;
+color: white;
+}
+.Foto 
 {
 	width:30%;
 	height:60%;
@@ -15,7 +41,15 @@
 	background-size:cover;
 	float:left;
 }
-#Info 
+.Foto2 
+{
+width: 25% ; 
+height:60% ;
+background-image: url(Images/fond2.png);
+background-size: cover;
+float: left;
+}
+.Info 
 {
 	width:45%;
 	height:60%;
@@ -24,7 +58,7 @@
 	box-shadow:inset 0 0 0 5px white;
 	float:right;
 }
-#Calif
+.Calif
 {
 	text-align:center;
 	width: 35%;
@@ -34,7 +68,7 @@
 	box-shadow:inset 0 0 0 5px white;
 	float: right;
 }
-#Musc
+.Musc
 {
 	width:17%;
 	height:10%;
@@ -42,7 +76,7 @@
 	box-shadow:inset 0 0 0 5px white;
 	float:right;"
 }
-#Lib
+.Lib
 {
 	width:16%;
 	height:10%;
@@ -50,7 +84,7 @@
 	box-shadow:inset 0 0 0 5px white;
 	float:right;"
 }
-#Gustos3
+.Pel
 {
 	width:16%;
 	height:10%;
@@ -58,94 +92,35 @@
 	box-shadow:inset 0 0 0 5px white;
 	float:right;
 }
-#Gustos4
+.Dep
 {
 	width:16%;
 	height:10%;
 	background-color:blue;
 	box-shadow:inset 0 0 0 5px white;
 	float:right;}
-#Imgus1
+.Imgus1
 {
 	width:17%;
 	height:30%;
-	background-image:url(Images/mus.png);
-	background-size:cover;
-	box-shadow:inset 0 0 0 5px white;
 	float:right;
 }
-#Imgus2
+.Imgus2
 {
 	width:16%;
 	height:30%;
-	background-image:url(Images/lib.png);
-	background-size:cover;
-	box-shadow:inset 0 0 0 5px white;
 	float:right;
 }
-#Imgus3
-{
-	width:16%;
-	height:30%;
-	background-image:url(Images/pel.png);
-	background-size:cover;
-	box-shadow:inset 0 0 0 5px white;
-	float:right;
-}
-#Imgus4
-{
-	width:16%;
-	height:30%;
-	background-image:url(Images/dep.png);
-	background-size:cover;
-	box-shadow:inset 0 0 0 5px white;
-	float:right;
-}
-#Pie
+.Pie
 {
 	width:100%;
 	height:25%;
 	background-image:url(Images/contac.png);
-	box-shadow:inset 0 0 0 5px white;
 	float:left;
 }
-#ftf1
+.ftf
 {
 	width:20%;
 	height:30%;
-	background-color:blue;
-	box-shadow:inset 0 0 0 5px white;
-	float:left;
-}
-#ftf2
-{
-	width:20%;
-	height:30%;
-	background-color:blue;
-	box-shadow:inset 0 0 0 5px white;
-	float:left;
-}
-#ftf3
-{
-	width:20%;
-	height:30%;
-	background-color:blue;
-	box-shadow:inset 0 0 0 5px white;
-	float:left;
-}
-#ftf4
-{
-	width:20%;
-	height:30%;
-	background-color:blue;
-	box-shadow:inset 0 0 0 5px white;
-	float:left;
-}
-#ftf5
-{
-	width:20%;
-	height:30%;
-	background-color:blue;
-	box-shadow:inset 0 0 0 5px white;
 	float:left;
 }
